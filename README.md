@@ -5,7 +5,8 @@
 Esu [tavo vardas], duomenų analitikas su patirtimi IT, Help Desk'o valdyme ir procesų analitikoje. Dirbu su įvairiais įrankiais, kad gautume vertingų įžvalgų iš duomenų.
 
 ## Mano projektai
-1. **[Projekto 1](nuoroda)**: Aprašymas apie tai, ką projektas daro.
+1. **<a href="https://github.com/giesla/respository_demo_01" target="_blank">Projekto 1</a>
+**: Aprašymas apie tai, ką projektas daro.
 2. **[Projekto 2](nuoroda)**: Aprašymas apie tai, ką projektas daro.
 
 ## Mano įgūdžiai
